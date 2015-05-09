@@ -1,0 +1,2 @@
+# docker-gdash
+GlusterFS Dashboard
